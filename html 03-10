@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site</title>
+</head>
+
+<body>
+    <header>
+        <h1>Trabalhando com Web Semântica</h1> <!-- titulo principal é sempre h1 e <p> é o que fica abaixo do principal-->
+        <p>Cillum commodo officia labore nulla cupidatat consectetur duis pariatur deserunt dolore esse dolor eiusmod
+            elit. Quis velit incididunt non consectetur magna ipsum occaecat in. Esse occaecat ipsum anim ex deserunt ut
+            tempor aliqua do culpa. Irure et labore velit est duis eu nisi enim magna amet veniam anim. Ullamco
+            excepteur esse sint velit consequat nostrud mollit voluptate. Labore ullamco laboris aliquip anim id
+            reprehenderit veniam pariatur dolore et sint qui laboris.</p>
+        <nav>
+            <a href="index.html">Home</a> <!--botão home página inicial-->
+            <a href="contato.html">CONTATO</a> 
+            <a href="produtos.html">PRODUTOS</a>
+        </nav>
+        <img src="ASSETS/IMG/lago.png" alt="lago" width="1000px"> <!-- sempre deixar as imagens e nav antes de fechar o header-->
+    </header> 
+    
+    <main>
+        <section>
+            <h2>Faça uma escolha</h2>
+            <form>
+                <input type="radio" value="" id="" name="">
+            </form>
+        </section>
+        
+    </main>
+    <footer>
+
+    </footer>
+</body>
+</html>
